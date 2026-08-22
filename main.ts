@@ -1,3 +1,12 @@
+/*
+File:       github.com/ETmbit/make-1.ts
+Version:	2026-1
+Copyright:  ElecTricks, 2026
+License:    GNU GPL 3 or later
+Disclaimer: Distributed without any warranty
+Depends on: None
+*/
+
 //////////////////
 //  INCLUDE     //
 //  etbasic.ts  //
