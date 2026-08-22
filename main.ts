@@ -4,7 +4,6 @@ Version:	2026-1
 Copyright:  ElecTricks, 2026
 License:    GNU GPL 3 or later
 Disclaimer: Distributed without any warranty
-Depends on: None
 */
 
 //////////////////
@@ -793,6 +792,10 @@ namespace Game {
 // END INCLUDE //
 /////////////////
 
+/////////////////
+//  MAIN       //
+//  make-1.ts  //
+/////////////////
 
 let time = 0
 let starttime = 0
@@ -903,3 +906,7 @@ namespace CatAndMouse {
 }
 
 basic.showIcon(IconNames.Yes)
+
+//////////////
+// END MAIN //
+//////////////
