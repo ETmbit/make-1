@@ -894,7 +894,7 @@ ButtonPad.onButton(ETbuttonPad.TopRight, function () {
     Game.stopGame()
 })
 
-//% color="#00CC00" icon="\uf1f9"
+//% color="#00CC00" icon="\uf13d"
 //% block="Cat and Mouse"
 //% block.loc.nl="Kat en Muis"
 namespace CatAndMouse {
